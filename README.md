@@ -5,12 +5,12 @@ EvolentHealth -
     - RequestHandler.jsp
     - index.jsp
   - Souce Packages
-    -com.DAO
-      -PersonDAO.java
-    -com.POJO
-      -Peson.java
-    -com.ViewAction
-      -ContactsViewAction.java
+    - com.DAO
+      - PersonDAO.java
+    - com.POJO
+      - Peson.java
+    - com.ViewAction
+      - ContactsViewAction.java
       
       
 open project in ide, and run it. I have stored data in contact.json file 
